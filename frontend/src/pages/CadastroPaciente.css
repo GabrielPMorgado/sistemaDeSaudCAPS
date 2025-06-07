@@ -1,0 +1,72 @@
+body {
+  background-color: #f3f6fb;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cadastro-container {
+  max-width: 600px;
+  background-color: #fff;
+  padding: 30px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  font-weight: 700;
+  color: #1e3a8a;
+  margin-bottom: 25px;
+}
+
+label {
+  font-weight: 600;
+  color: #374151;
+  margin-bottom: 6px;
+  font-size: 0.95rem;
+}
+
+.input-group-text {
+  background-color: #1e3a8a;
+  color: #fff;
+  border: none;
+  font-size: 1rem;
+}
+
+.form-control {
+  border-left: none;
+  border-radius: 0 6px 6px 0;
+  font-size: 0.95rem;
+  transition: border-color 0.3s;
+}
+
+.form-control:focus {
+  border-color: #1e3a8a;
+  box-shadow: 0 0 6px rgba(30, 58, 138, 0.5);
+}
+
+.input-group {
+  border: 1.5px solid #cbd5e1;
+  border-radius: 6px;
+  overflow: hidden;
+  transition: border-color 0.3s;
+}
+
+.input-group:focus-within {
+  border-color: #1e3a8a;
+}
+
+button.btn-primary {
+  background-color: #1e3a8a;
+  border: none;
+  padding: 12px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+}
+
+button.btn-primary:hover {
+  background-color: #153a8a;
+  box-shadow: 0 5px 15px rgba(30, 58, 138, 0.4);
+}
