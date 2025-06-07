@@ -33,7 +33,7 @@ Axios (para comunicação com a API)
 Backend
 (Você pode inserir aqui: Node.js, Express, Laravel, Django, etc.)
 
-Banco de Dados (ex: PostgreSQL, MySQL, MongoDB)
+Banco de Dados (MySQL)
 
 🚀 Instalação e Execução
 Frontend
