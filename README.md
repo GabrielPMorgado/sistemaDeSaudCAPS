@@ -1,5 +1,4 @@
-🧠 Sistema de Saúde para CAPS
-Sistema de gestão para Centros de Atenção Psicossocial (CAPS), desenvolvido com React + Vite + Bootstrap, com integração a um backend com banco de dados para controle de pacientes, profissionais e agendamentos de consultas.
+🧠 Sistema basico de saúde desenvolvido com React + Vite + Bootstrap, com integração a um backend com banco de dados para controle de pacientes, profissionais e agendamentos de consultas.
 
 📌 Funcionalidades
 ✅ Cadastro de pacientes
@@ -10,13 +9,13 @@ Sistema de gestão para Centros de Atenção Psicossocial (CAPS), desenvolvido c
 
 ✅ Visualização e listagem de pacientes
 
-✅ Agendamento de consultas com:
+✅ Agendamento de consultas 
 
-Escolha de profissional por especialidade
+✅ Escolha de profissional por especialidade
 
-Definição de dia, data e hora
+✅ Definição de dia, data e hora.
 
-✅ Interface moderna e responsiva com Bootstrap
+✅ Interface moderna e responsiva com Bootstrap.
 
 ✅ Integração com backend e banco de dados
 
